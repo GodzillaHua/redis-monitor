@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/redismonitor
+    username: redismonitor
+    password: redismonitor
+  jpa:
+    show-sql: true
